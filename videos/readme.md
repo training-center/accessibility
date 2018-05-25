@@ -12,3 +12,7 @@ O nome do arquivo deve ser a data em que o vídeo foi postado em nosso canal no 
 No documento devemos deixar um link para o vídeo, para que outras pessoas possam contribuir na transcrição.
 
 O título do documento deve ser o título do vídeo.
+
+Os vídeos serão divididos em blocos e cada pessoa se colocará como responsável por transcrever um bloco. 
+
+Quando o vídeo for transcrito por completo a separação dos blocos será removida e apenas os nomes dos colaboradores ficarão no arquivo.
