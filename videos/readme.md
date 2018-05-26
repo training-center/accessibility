@@ -3,12 +3,12 @@
 
 > Tornando nossos vídeos mais acessíveis.
 
-Essa iniciativa serve para tornar o conteúdo do Training Center mais acessível, transcrevendo os vídeos do [nosso canal do Youtube](https://www.youtube.com/channel/UC8reCbWAXloUaFmHhsOh2Xw).
+Essa iniciativa serve para tornar o conteúdo do Training Center mais acessível, transcrevendo os vídeos do [nosso canal do Youtube](http://bit.ly/TrainingCenterChannel).
 
 Quer fazer parte da equipe de transcrição? 
 Preencha [esse formulário](https://goo.gl/forms/mXgF79h1NJ8eVuzt2) e aguarde entrarmos em contato.
 
-É obrigatório que você entre em nosso Slack e possua uma foto sua no seu perfil no chat para poder participar deste projeto. Para entrar no Slack acesse [este link](https://ctgroups.herokuapp.com/).
+É obrigatório que você entre em nosso Slack e possua uma foto sua no seu perfil no chat para poder participar deste projeto. Para entrar no Slack acesse [este link](http://bit.ly/slack-training-center).
 
 ## Diretrizes para transcrição dos nossos vídeos
 
